@@ -1,0 +1,249 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+  li {
+    display: inline;
+   
+  }
+  a{
+    text-decoration: none;
+  }
+  li {
+    margin: 20px 20px 20px 20px;
+  }
+  nav{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    background-color: #fff;
+    z-index: :5;
+    top: 0;
+    left: 0;
+    padding: 20px;
+  }
+  #logo{
+    width: 40px;
+    height: 39px;
+    margin-left: 700px;
+    padding: 200px 100px 50px 20px;
+  }
+  #titre1{
+    font-family: "work sans", Arial, Helvetica ;
+    font-size: 30px;
+    font-weight: lighter;
+    color: rgb(62, 184, 172);
+    text-align: center;
+    margin: 34px 0 34px 0;
+  }
+ .A{
+  width: 477px;
+  height: 112px;
+  border: none;
+  display: inline-block;
+  margin: 13px 0px 13px 0px ;
+ 
+ }
+ .center1{
+  display: flex;
+  flex-direction: row;
+    justify-content:center;
+    gap: 20px;
+ }
+ 
+ #text{
+ font-family: Arial, Helvetica, sans-serif;
+ color: rgb(132, 132, 132);
+ line-height: 28px;
+ }
+ #icone{
+  width: 24px;
+    height: 24px;
+ }
+ div{
+  display: inline-block;
+ 
+ 
+  }
+  .c1{
+    
+    height: 345px;
+    width: 311px;
+    font-weight: bold;
+    background-color: #78eded;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: .5em;
+    border-radius: 15px;
+    margin-left: 250px;
+    margin-top: 50px;
+  }
+  .c2{
+    height: 345px;
+    width: 311px;
+    font-weight: bold;
+    background-color: #2c3fe9;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: .5em;
+    border-radius: 15px;
+    margin-top: 50px;
+    margin-left: 15px;
+    margin-right: 15px;
+  }
+  .c3{
+    height: 345px;
+    width: 311px;
+    font-weight: bold;
+    background-color: #010525;
+    color: #fff;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: .5em;
+    border-radius: 15px;
+    margin-right: 100px;
+    margin-top: 50px;
+  }
+  .bloc-a{
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    position: sticky;
+  }
+  .selection-a{
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50x;
+    text-decoration: underline;
+    text-decoration: #78eded;
+    margin-top: 150px;
+
+   }
+   
+   .selection-b{
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50x;
+    text-decoration: underline;
+    text-decoration: #2c3fe9;
+    margin-top: 150px;
+   }
+   .selection-c{
+   border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50x;
+    text-decoration: underline;
+    text-decoration: #0e0244;
+    margin-top: 150px;
+   }
+    
+  #titre2{
+    font-family: "work sans", Arial, Helvetica ;
+    font-size: 22px;
+    font-weight: lighter;
+    color: rgb(62, 184, 172);
+    margin: 34px 0 34px 0;
+  }
+  .box1{
+height: 165px;
+width: 187px;
+margin-left: 300px;
+  }
+  #icone1{
+    height: 16px;
+    width: 75px;
+    margin: 20px;
+  }
+  .img{
+    height: 188px;
+    width: 455px;
+   display: flex;
+   flex-direction: column;
+   justify-content: flex-end;
+   flex-wrap: wrap;
+   justify-content: space-around;
+   margin-right: 200px;
+
+  }
+  .box{
+    background-color: rgb(153, 240, 240);
+    height: 608px;
+    width: 1520px;
+  }
+  .box-a{
+    background-color: #fff;
+    height: 240px;
+    width: 220px;
+  }
+  .icone{
+    height: 28px;
+    width: 25px;
+    margin-left: 100px;
+    margin-top: 30px;
+
+  }
+  .text1{
+    font-family: "work sans", Arial, Helvetica ;
+    font-size: 30px;
+    font-weight: 300;
+    line-height: 33px;
+    color: rgb(62, 184, 172);
+    margin-left: 200px;
+    margin-top: 60px;
+   
+  }
+  .text2{
+  font-family: Arial, Helvetica, sans-serif;
+ color: rgb(132, 132, 132);
+ line-height: 20px;
+ margin-left: 200px;
+  }
+  .h3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    color: rgb(46, 194, 196);
+    line-height: 20px;
+    text-align: center; 
+    
+  }
+  .text3{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: rgb(88, 93, 94);
+    line-height: 20px;
+    text-align: center; 
+  }
+  .ab{
+    display: flex;
+    justify-content: center;
+   
+  }
+  .container{
+    height: 600px;
+    width: 500px;
+       display: flex;
+       flex-direction: column;
+        justify-content: flex-end;
+        flex-wrap: wrap;
+        justify-content: space-around;
+        margin-right: 200px;
+    
+  }
+  .box{
+    display: flex;
+    justify-content: space-between;
+  }
+  #icone2{
+    margin-left: 200px;
+  }
+  .container-b{
+    display: flex;
+    justify-content: space-between;
+  }
+
+
+  
+  
+  
+       
+ 
+ 
+  
